@@ -1,1 +1,1 @@
-# Updated-Langchain
+The GitHub repository "Building-Gen-AI-Powered-App-Using-Langchain-And-Huggingface-And-Mistral"  provides resources for creating a generative AI-powered application. It leverages LangChain for building language models, Hugging Face for implementing state-of-the-art NLP models, and Mistral for efficient model inference. The repository includes code files, API integrations, and specific directories for agents, chatbots, and other components.
